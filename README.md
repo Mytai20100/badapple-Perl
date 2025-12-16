@@ -2,5 +2,5 @@
 :?
 # install :?
 ``
-sudo apt install yt-dlp ffmpeg && 
+sudo apt install yt-dlp ffmpeg && perl badapple.pl
 ``
